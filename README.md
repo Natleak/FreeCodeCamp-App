@@ -1,1 +1,2 @@
-Contain all the freecodecamp projects
+# FreeCodeCamp-App
+ First cat app in HTML
